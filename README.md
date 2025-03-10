@@ -1,4 +1,4 @@
-<h1 align="center">  Projeto API - 2º Semestre </h1>
+<h1 align="center">  Projeto API - 3º Semestre </h1>
 
 <!-- <div style="text-align: right;">
     <img src="docs/logos/logo.png" alt="Logo" style="width: 200px;"/>
@@ -6,14 +6,19 @@
 
 
 ## 📌 Tema
+<h3 align="center">  Acompanhamento do Desempenho dos Estados </h3>
 
-Muitas empresas lidam com milhares de documentos diariamente, como currículos, contas, notas fiscais e assim por diante. Porém, _extrair informações_ destes documentos é uma atividade difícil que depende da ação humana (mais lenta que computadores), pois retirar apenas o texto pode não ser suficiente, visto que as informações dependem do layout visual.
+
+<h4 align="center"> Estatísticas de Comércio Exterior em Dados Abertos - Ministério do Desenvolvimento, Indústria, Comércio e Serviços </h4>
 
 ---
 
 ## 🎯 Objetivo do Projeto  
-
-**Desenvolvimento de uma interface gráfica com Java Desktop, utilizando VLM (Vision Language Model) para a extração de informações de documentos, armazenando e manipulando em um banco de dados.** O sistema será capaz de ler, extrair e devolver a requisição feita pelo usuário. Será utilizado modelos de inteligência artificial para melhorar a praticidade e escalamento.
+O objetivo deste projeto é desenvolver uma plataforma web que disponibilize informações sobre o
+desempenho dos Estados Brasileiros no comércio exterior, com base nos dados abertos do
+Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Essa ferramenta fornecerá aos
+tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que
+estejam em ascensão, estagnação ou declínio no mercado internacional.
 
 ---
 
