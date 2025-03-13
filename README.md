@@ -51,9 +51,7 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 
 ### Sprint 4
 
-
 ---
-
 
 ## 🛤️ Roadmap
 
