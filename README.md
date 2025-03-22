@@ -35,7 +35,9 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 ---
 
 ## 📚 MVP (Minimum Viable Product)
- 
+Dashboard Web projetado para transformar dados brutos logísticos em uma interface visual intuitiva e completa. O sistema integra
+fontes de informação, permitindo análises dinâmicas para definições mais rápidas e eficientes, visando otimizar processos, garantindo
+maior controle, previsibilidade e segurança para empresas do setor.
 
 
 ## 🔊 Demonstração 
@@ -49,13 +51,12 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 ### Sprint 3
 
 
-### Sprint 4
 
 ---
 
-## 🛤️ Roadmap
+<!-- ## 🛤️ Roadmap -->
 
-
+<!--
 ## 📝 Levantamento de Requisitos
 <div align="center">
 
@@ -75,19 +76,32 @@ estejam em ascensão, estagnação ou declínio no mercado internacional.
 
 ---
 </div>
+-->
 
 ## 📑 Backlog do Produto
 <div align="center">
 
 |Rank |Prioridade|                    User Story                    | Estimativa | Sprint |
 |:---:|:--------:|:------------------------------------------------:|:----------:|:------:|
-|  1  |  Alta   |                                                   |        13  | 1 |
-|  2  |  Média    |                                                   |    18      | 1 |
-|  3  |  Baixa    |                                                   |    4       | 1 |
+|  1  |  Alta   |     Como analista, quero que os dados exibidos sejam previamente tratados e armazenados em um banco de dados, para maior confiabilidade das informações.  |          | 1 |
+|  2  |  Alta   |    Como analista, quero um mapa que informe quais são os principais fornecedores e clientes de cada estado, para melhor análise logística.    |          | 2 |
+|  3 |  Alta   |    Como analista, quero filtros de busca para os dados mais relevantes, para poder visualizar dados específicos.                 |          | 2 |
+|  4 |  Alta   |    Como analista, quero uma representação gráfica do tráfego de Valor Agregado que é importado e exportado por um estado, para análise de tendências.     |          | 2 |
+|  5 |  Alta   |   Como analista, quero uma representação gráfica do movimento das principais alfândegas de cada estado, para poder visualizar o fluxo logístico interno.     |          | 2 |
+|  6 |  Alta   |   Como analista, quero uma representação gráfica das principais cargas movimentadas por cada estado, para melhor análise logística.    |          | 2 |
+|  7 |  Média    |  Como analista, quero um mapa que defina quais os principais compradores de produtos específicos de cada estado, para análise de tendências.   |         | 2 |
+|  8 |  Média    | Como cliente, quero que um relatório de qualidade seja feito a partir dos dados tratados, para entender quais erros foram encontrados.   |         | 1 |
+|  9 |  Média    | Como analista, quero uma comparação gráfica entre os valores agregados dos estados, para melhor análise logística.   |         | 3 |
+|  10 |  Média    | Como analista, quero um gráfico da balança comercial de cada estado brasileiro, para melhor tomada de decisões.  |         | 2 |
+|  11 |  Média    | Como analista, quero uma comparação gráfica entre as diferentes balanças comerciais entre os estados, para análise de tendências. |         | 3 |
+|  12 |  Baixa    |  Como cliente, quero manipular o código utilizado para o tratamento dos dados, para futuro uso customizável.  |           | 1 |
+|  13 |  Baixa    |  Como analista, quero visualizar os principais transportes usados para exportação, para melhor análise logística.  |           | 2 |
+|  14 |  Baixa    | Como analista, quero ter acesso a notícias atuais relacionadas a logística, para que eu esteja em dia com os principais acontecimentos.  |           | 3 |
+|  15 |  Baixa    |  Como analista, quero ter acesso a projeção para tendências futuras feitas por uma inteligência artificial, para suporte na análise.  |           | 3 |
 
 </div>
 
-
+<!--
 ## 🏗️ Arquitetura do Sistema
 
 O sistema será baseado em uma arquitetura de **camadas**, onde cada parte desempenha um papel específico no processo:
@@ -98,25 +112,33 @@ O sistema será baseado em uma arquitetura de **camadas**, onde cada parte desem
 - **Tratamento de Dados**:
 
 ---
+-->
 
 ## 🛠️ Tecnologias Utilizadas
 
-Ferramentas e plataformas aplicadas no desenvolvimento do projeto:
+Ferramentas e plataformas aplicadas:
 - Figma 🎨 
 - Git e GitHub 🐙
-- MySQL 🗄️
 - Draw.io 📊
 - Markdown 📝
-- Trello 🔧
+- Trello 🔧 <br>
+
+Linguagens e Frameworks:
+- JavaScript 🛠️
+- TypeScript ➰
+- Python 🐍
+- React 🌠
+- MySql 💻
 ---
 
 
-## 📋 Para Executar o Projeto
+<!--## 📋 Para Executar o Projeto
 
-### Pré-requisitos:
+### Pré-requisitos: 
 
 
 ---
+-->
 
  ###  Fatec São José dos Campos - Prof. Jessen Vidal
 
