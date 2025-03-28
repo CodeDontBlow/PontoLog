@@ -1,0 +1,3 @@
+[submodule "pontolog-frontend"]
+	path = pontolog-frontend
+	url = https://github.com/CodeDontBlow/PontoLog-Frontend.git
