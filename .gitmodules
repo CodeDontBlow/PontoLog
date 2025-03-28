@@ -1,3 +1,6 @@
 [submodule "pontolog-frontend"]
 	path = pontolog-frontend
 	url = https://github.com/CodeDontBlow/PontoLog-Frontend.git
+[submodule "pontolog-backend"]
+	path = pontolog-backend
+	url = https://github.com/CodeDontBlow/PontoLog-Backend.git
