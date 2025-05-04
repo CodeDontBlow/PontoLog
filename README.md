@@ -1,7 +1,7 @@
 <h1 align="center">  Projeto API - 3º Semestre </h1>
 
 <!-- <div style="text-align: right;">
-    <img src="docs/logos/logo.png" alt="Logo" style="width: 200px;"/>
+    <img src="docs/assets/LOGOCDB.svg" alt="Logo" style="width: 200px;"/>
 </div> -->
 
 
@@ -14,29 +14,29 @@
 ---
 
 ## 🎯 Objetivo do Projeto  
-O objetivo deste projeto é desenvolver uma plataforma web que disponibilize informações sobre o
-<b> desempenho dos Estados Brasileiros no comércio exterior </b>, com base nos dados abertos do
+O objetivo deste projeto é desenvolver uma plataforma que disponibilize informações sobre o
+<b> desempenho dos Estados Brasileiros no comércio exterior, </b> com base nos dados abertos do
 Ministério do Desenvolvimento, Indústria, Comércio e Serviços. Essa ferramenta fornecerá aos
 tomadores de decisão dados claros e acessíveis, permitindo a identificação de municípios que
 estejam em ascensão, estagnação ou declínio no mercado internacional.
 
 
 ## 🔎 MVP (Minimum Viable Product)
-<b>PontoLog </b> é um dashboard web projetado para transformar <b> dados brutos logísticos </b> em 
-uma interface visual intuitiva e completa. O sistema integrafontes de informação, permitindo análises
-dinâmicas para definições mais rápidas e eficientes, visando otimizar processos e garantir
-maior controle, previsibilidade e segurança para empresas do setor. Entre suas funcionalidades principais, o analista poderá:
-- Visualizar estatísticas da balança comercial, de importação e exportação, de cada estado;
+<b>PontoLog </b> é uma plataforma web projetada para transformar <b> dados brutos logísticos </b> em 
+uma interface visual intuitiva e completa. O sistema integra fontes de informação, podendo ser visualizado acessando a página de estatísticas ou comparação de dados, permitindo análises dinâmicas para definições mais rápidas e eficientes, visando otimizar processos e garantir
+maior controle, previsibilidade e segurança para empresas do setor. 
+
+## 📍 Levantamento de Requisitos 
+
+Entre suas funcionalidades principais, o analista poderá:
+- Visualizar estatísticas da balança comercial, de importação e exportação, de cada estado; 
 - Identificar tendências de crescimento, estagnação ou declínio nos municípios;
+- Verificar principais alfândegas, transportes  e fornecedores utilizados;
+- Comparar performance comercial de diferentes estados;
 - Filtrar informações por período (2014-2024), do estado e produtos;
-- Gerar gráficos e relatórios sobre desempenho.
+- Gerar gráficos sobre desempenho.
 
 ---
-
-## 🗺️ RoadMap 
-
- <img src="docs/assets/RoadMap PontoLog.png" alt="RoadMap PontoLog" style="width: 700px;"/>
-
 
 ## 📽️ Demonstração 
 
@@ -46,9 +46,13 @@ https://github.com/user-attachments/assets/9cc79593-4f11-41bb-a537-d70fe6143bc2
 
 
 
-<!-- ### • Sprint 2
+### • Sprint 2
+
+https://github.com/user-attachments/assets/c4e029f4-b73a-4fd6-9e33-c5b8e0b4551d
 
 
+
+<!--
 ### • Sprint 3 -->
 
 
@@ -84,36 +88,21 @@ https://github.com/user-attachments/assets/9cc79593-4f11-41bb-a537-d70fe6143bc2
 |Rank |Prioridade|                    User Story                    | Sprint |
 |:---:|:--------:|:------------------------------------------------:|:------:|
 |  1  |  Alta   |     Como analista, quero que os dados exibidos sejam previamente tratados e armazenados em um banco de dados, para maior confiabilidade das informações.  |  1 |
-|  2  |  Alta   |    Como analista, quero um mapa que informe quais são os principais fornecedores e clientes de cada estado, para melhor análise logística.    | 2 |
-|  3 |  Alta   |    Como analista, quero filtros de busca para os dados mais relevantes, para poder visualizar dados específicos.                 | 2 |
-|  4 |  Alta   |    Como analista, quero uma representação gráfica do tráfego de Valor Agregado que é importado e exportado por um estado, para análise de tendências.     | 2 |
-|  5 |  Alta   |   Como analista, quero uma representação gráfica do movimento das principais alfândegas de cada estado, para poder visualizar o fluxo logístico interno.     | 2 |
-|  6 |  Alta   |   Como analista, quero uma representação gráfica das principais cargas movimentadas por cada estado, para melhor análise logística.    | 2 |
-|  7 |  Média    |  Como analista, quero um mapa que defina quais os principais compradores de produtos específicos de cada estado, para análise de tendências.   | 2 |
-|  8 |  Média    | Como cliente, quero que um relatório de qualidade seja feito a partir dos dados tratados, para entender quais erros foram encontrados.   | 1 |
-|  9 |  Média    | Como analista, quero uma comparação gráfica entre os valores agregados dos estados, para melhor análise logística.   | 3 |
-|  10 |  Média    | Como analista, quero um gráfico da balança comercial de cada estado brasileiro, para melhor tomada de decisões.  | 2 |
-|  11 |  Média    | Como analista, quero uma comparação gráfica entre as diferentes balanças comerciais entre os estados, para análise de tendências. | 3 |
-|  12 |  Baixa    |  Como cliente, quero manipular o código utilizado para o tratamento dos dados, para futuro uso customizável.  | 1 |
-|  13 |  Baixa    |  Como analista, quero visualizar os principais transportes usados para exportação, para melhor análise logística.  | 2 |
-|  14 |  Baixa    | Como analista, quero ter acesso a notícias atuais relacionadas a logística, para que eu esteja em dia com os principais acontecimentos.  | 3 |
-|  15 |  Baixa    |  Como analista, quero ter acesso a projeção para tendências futuras feitas por uma inteligência artificial, para suporte na análise.  | 3 |
+|  2  |  Alta   |   Como analista, quero que os dados sejam organizados visualmente em um dashboard intuitivo, para visualização mais rápida e acessível das estatísticas.   | 2 |
+|  3 |  Alta   |   Como analista, quero filtro de busca de produto, período de tempo e estado, para poder visualizar dados específicos.               | 3 |
+|  4 |  Alta   |    Como cliente, quero que um relatório de qualidade seja feito a partir dos dados tratados, para entender quais erros foram encontrados.     | 1 |
+|  5 |  Média   |   Como analista, quero que dados suscetíveis a flutuações, como Valor Agregado e Balança Comercial, sejam representados em um gráfico de linha, para analisar suas variações ao longo de um período e prever tendências.  | 2 |
+|  6 |  Média   |  Como analista, quero que dados sobre relações exteriores, como os países clientes de um estado, sejam representados em um mapa mundial de calor, para uma análise rápida e intuitiva.    | 2 |
+|  7 |  Média    |  Como analista, quero a possibilidade de fazer a comparação entre as estatísticas de dois estados, com filtro de produto e período de tempo, para projeção de tendências nacionais.   | 3 |
+|  8 |  Média    | Como usuário, quero que os dados tratados sejam armazenados em um servidor dedicado, para evitar instalação e configuração de um servidor local.   | 2 |
+|  9 |  Baixa    |  Como cliente, quero manipular o código utilizado para o tratamento dos dados, para futuro uso customizável. | 1 |
+|  10 |  Baixa    |  Como analista, quero ter acesso a um documento que explicite quais dados foram tratados e de que forma, para maior confiabilidade nos resultados.  | 3 |
+|  11 |  Baixa    | Como usuário, quero que o site possua um comportamento dinamicamente responsivo, para que eu possa fazer análises em grande parte dos dispositivos. | 3 |
+|  12 |  Baixa    | Como analista, quero ter acesso a notícias relacionadas a logística, para que eu esteja em dia com os principais acontecimentos.  | 3 |
 
 </div>
 
-<!--
-## 🏗️ Arquitetura do Sistema
-
-O sistema será baseado em uma arquitetura de **camadas**, onde cada parte desempenha um papel específico no processo:
-
-- **Frontend (Interface Gráfica)**: 
-- **Backend**: 
-- **Banco de Dados**: 
-- **Tratamento de Dados**:
-
----
--->
-
+<!-- 
 ## 🛠️ Tecnologias Utilizadas
 
 Ferramentas e plataformas aplicadas:
@@ -128,7 +117,16 @@ Linguagens e Frameworks:
 - TypeScript ➰
 - Python 🐍
 - React 🌠
-- MySql 💻
+- PostgreSQL 💻
+  -->
+
+## 🛠️ Tecnologias e Ferramentas Utilizadas
+
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript) | ![REACT](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)|
+| --- | --- | --- | --- |
+| ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)  | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql) | ![Google Colab](https://img.shields.io/badge/-Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab) |![TypeORM](https://img.shields.io/badge/-TypeORM-0D1117?style=for-the-badge&logo=typeorm) |
+| ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github) | ![Draw.io](https://img.shields.io/badge/-Draw.io-0D1117?style=for-the-badge&logo=diagramsdotnet) | ![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello) | ![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) | 
+
 ---
 
 ## 📅 Cronograma e Sprints
@@ -137,19 +135,11 @@ Linguagens e Frameworks:
 | ----------------- | ---------- | -----------|---------------|
 | Kick Off          | 28/03/2025 |            | Concluído     |
 | 01                | 10/03/2025 | 30/03/2025 | Concluído  |
-| 02                | 07/04/2025 | 27/04/2025 | A Fazer       |
-| 03                | 05/06/2025 | 25/05/2025 | A Fazer       |
-| Feira de Soluções | 29/05/2025 |            | A Fazer       |
+| 02                | 07/04/2025 | 27/04/2025 | Concluído      |
+| 03                | 05/05/2025 | 25/05/2025 | A Fazer       |
+| Feira de Soluções | 17/06/2025 |            | A Fazer       |
 
 ---
-
-<!--## 📋 Para Executar o Projeto
-
-### Pré-requisitos: 
-
-
----
--->
 
  ### 👥 Fatec São José dos Campos - Prof. Jessen Vidal
 
@@ -173,4 +163,3 @@ Linguagens e Frameworks:
 | Leonardo Cristiano | Dev Team | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leonardo-dSouza) |
 | Victor Godoy | Dev Team | [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/victorrgodoy) |
 
-<!-- <img src="docs/logos/logo2preta.png" alt="Logo Preta" width="200" style="margin-left: 25%;"/> -->
