@@ -1,10 +1,5 @@
 <h1 align="center">  Projeto API - 3º Semestre </h1>
 
-<!-- <div style="text-align: right;">
-    <img src="docs/assets/LOGOCDB.svg" alt="Logo" style="width: 200px;"/>
-</div> -->
-
-
 ## 📌 Tema
 <h3 align="center">  Acompanhamento do Desempenho dos Estados </h3>
 
@@ -50,7 +45,9 @@ https://github.com/user-attachments/assets/9cc79593-4f11-41bb-a537-d70fe6143bc2
 
 https://github.com/user-attachments/assets/c4e029f4-b73a-4fd6-9e33-c5b8e0b4551d
 
+## QRCode Link para o Site
 
+<img src="qrCode.png" alt="qrcode" style="width: 400px;" />
 
 <!--
 ### • Sprint 3 -->
@@ -126,6 +123,7 @@ Linguagens e Frameworks:
 | --- | --- | --- | --- |
 | ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)  | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql) | ![Google Colab](https://img.shields.io/badge/-Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab) |![TypeORM](https://img.shields.io/badge/-TypeORM-0D1117?style=for-the-badge&logo=typeorm) |
 | ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github) | ![Draw.io](https://img.shields.io/badge/-Draw.io-0D1117?style=for-the-badge&logo=diagramsdotnet) | ![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello) | ![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) | 
+
 
 ---
 
