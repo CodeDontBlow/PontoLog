@@ -46,6 +46,9 @@ https://github.com/user-attachments/assets/9cc79593-4f11-41bb-a537-d70fe6143bc2
 https://github.com/user-attachments/assets/c4e029f4-b73a-4fd6-9e33-c5b8e0b4551d
 
 ## QRCode Link para o Site
+## Ou Acesse pelo link:
+
+http://pontolog.hopto.org:5173
 
 <img src="qrCode.png" alt="qrcode" style="width: 400px;" />
 
