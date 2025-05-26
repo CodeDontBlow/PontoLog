@@ -40,20 +40,22 @@ Entre suas funcionalidades principais, o analista poderá:
 https://github.com/user-attachments/assets/9cc79593-4f11-41bb-a537-d70fe6143bc2
 
 
-
 ### • Sprint 2
 
 https://github.com/user-attachments/assets/c4e029f4-b73a-4fd6-9e33-c5b8e0b4551d
 
-## QRCode Link para o Site
-## Ou Acesse pelo link:
+### • Sprint 3 
+
+
+## 🖱️ Acesse o Site
+
 
 http://pontolog.hopto.org:5173
 
-<img src="qrCode.png" alt="qrcode" style="width: 400px;" />
+<img src="qrCode.png" alt="qrcode" style="width: 250px;" />
 
-<!--
-### • Sprint 3 -->
+
+
 
 
 
@@ -102,30 +104,12 @@ http://pontolog.hopto.org:5173
 
 </div>
 
-<!-- 
-## 🛠️ Tecnologias Utilizadas
-
-Ferramentas e plataformas aplicadas:
-- Figma 🎨 
-- Git e GitHub 🐙
-- Draw.io 📊
-- Trello 🔧
-- Google Colab 🤝 <br>
-
-Linguagens e Frameworks:
-- JavaScript 🛠️
-- TypeScript ➰
-- Python 🐍
-- React 🌠
-- PostgreSQL 💻
-  -->
-
 ## 🛠️ Tecnologias e Ferramentas Utilizadas
 
 | ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript) | ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript) | ![REACT](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react) | ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js)|
 | --- | --- | --- | --- |
 | ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python)  | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql) | ![Google Colab](https://img.shields.io/badge/-Google%20Colab-0D1117?style=for-the-badge&logo=googlecolab) |![TypeORM](https://img.shields.io/badge/-TypeORM-0D1117?style=for-the-badge&logo=typeorm) |
-| ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github) | ![Draw.io](https://img.shields.io/badge/-Draw.io-0D1117?style=for-the-badge&logo=diagramsdotnet) | ![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello) | ![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) | 
+| ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github) | ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=for-the-badge&logo=redis&logoColor=white) | ![Trello](https://img.shields.io/badge/-Trello-0D1117?style=for-the-badge&logo=trello) | ![FIGMA](https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma) | 
 
 
 ---
@@ -137,8 +121,8 @@ Linguagens e Frameworks:
 | Kick Off          | 28/03/2025 |            | Concluído     |
 | 01                | 10/03/2025 | 30/03/2025 | Concluído  |
 | 02                | 07/04/2025 | 27/04/2025 | Concluído      |
-| 03                | 05/05/2025 | 25/05/2025 | A Fazer       |
-| Feira de Soluções | 17/06/2025 |            | A Fazer       |
+| 03                | 05/05/2025 | 25/05/2025 | Concluído       |
+| Feira de Soluções | 17/06/2025 |            | Concluído       |
 
 ---
 
