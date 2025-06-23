@@ -1,10 +1,10 @@
 <h1 align="center">  Projeto API - 3º Semestre </h1>
-
+ 
 ## 📌 Tema
-<h3 align="center">  Acompanhamento do Desempenho dos Estados </h3>
+<h3>  Acompanhamento do Desempenho dos Estados </h3>
 
 
-<h4 align="center"> Estatísticas de Comércio Exterior em Dados Abertos - Ministério do Desenvolvimento, Indústria, Comércio e Serviços </h4>
+<h4> Estatísticas de Comércio Exterior em Dados Abertos - Ministério do Desenvolvimento, Indústria, Comércio e Serviços </h4>
 
 ---
 
